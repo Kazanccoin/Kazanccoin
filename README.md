@@ -1,0 +1,2 @@
+# Kazanccoin
+KazancCore
